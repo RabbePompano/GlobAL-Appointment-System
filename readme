@@ -1,0 +1,5 @@
+Global Appointment System
+
+An appointment management system for the sales division of a company. Manages appointments with clients and salespersons. Uses an attractive dashboard. Has appointment filtering. Connects to a MySQL server (server is not available to the public).
+
+Made with: .NET Frameworks, WinForms, C#, MySQL
